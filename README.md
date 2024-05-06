@@ -1,5 +1,4 @@
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
-
 **AIM:**
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
@@ -26,7 +25,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 **Procedure**
 **PROGRAM**
 
-``
+```
 Developed by: Iswarya P
 RegisterNumber:212223230082
 
